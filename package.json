@@ -1,7 +1,7 @@
 {
     "name": "auction",
-    "description": "NFT Description",
-    "image": "image url",
+    "description": "NFTDescription",
+    "image": "https://t4.ftcdn.net/jpg/01/95/78/87/360_F_195788717_Ba8397mYBadW3JUx5SQejAxpRN02DyEF.jpg",
     "attributes": [
         {
             "trait_type": "Trait Name",
